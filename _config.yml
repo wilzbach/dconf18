@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor']
 title: "DConf 2018"
 email: "dconf@dlang.org"
 description: "DConf is the main face-to-face event for everyone in the D programming language community and anyone who wants to know what all the fuss is about."
-baseurl: "/2018"
+baseurl: "/dconf18"
 url: "https://dconf.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
