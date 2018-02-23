@@ -117,7 +117,9 @@ venueFeatures: ["Free WiFi", "Professional Catering", "Close to green parks"]
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "dconf"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+# https://github.com/tweetledee/tweetledee/blob/master/tweetledee/userjson.php
+#twitterFeed: "https://tweetledee.dlang.rocks/searchjson.php?q=%23dconf%20and%-filter:retweets&c=10&cache_interval=60&rt=recent"
+twitterFeed: "https://tweetledee.dlang.rocks/userjson.php?c=10&user=dlangconf"
 
 # Partners Block
 organizersTitle: "Organizers"
